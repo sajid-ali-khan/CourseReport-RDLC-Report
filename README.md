@@ -8,5 +8,5 @@ Pictures: ![Screenshot (12)](https://github.com/user-attachments/assets/b58c5c52
 ## With subject filter
 ![Screenshot (11)](https://github.com/user-attachments/assets/fada40b5-2c05-4aa6-8581-99c8a20a3e9e)
 
-##With semester filter
+## With semester filter
 ![Screenshot (9)](https://github.com/user-attachments/assets/1e36e579-ccb4-45dc-a887-c27a67d26880)
